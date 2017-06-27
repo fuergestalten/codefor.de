@@ -6,26 +6,24 @@ lat: 48.776540
 long: 9.173700
 markerposition: right
 
-
 members:
-- name: Jan A. Lutz
+- name: Jan Lutz
   username-twitter: Jan_sagt
   username-github: fuergestalten
 
-- name: Benedikt Groß
-  username-twitter: bndktgrs
-  username-github: b-g
+- name: Martin Weis
+  username-github: Marwe
 
 - name: Andreas Madsack
   username-twitter: mfandreas
   username-github: mfa
 
-- name: Arne Schauf
-  username-twitter: asmaps
-  username-github: asmaps
+- name: Rajko Zschiegner
+  username-twitter: ricki_z
+  username-github: ricki-z
   
-- name: Michael Käufl
-  username-github: michael-k
+- name: rashfael
+  username-github: rashfael
   
 - name: Frank Riedel
   username-twitter: riedelwerk
@@ -39,7 +37,7 @@ links:
 - name: Etherpad
   url: http://pad.okfn.org/p/OK-Lab-Stuttgart
 
-leads:
+lead:
 - name: Jan A. Lutz
   url: mailto:jan.lutz@buero-fuer-gestalten.de
   username-twitter: fuergestalten
